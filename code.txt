@@ -1,2 +1,4 @@
 Hi,
  welcome to devops practice
+
+i have moved file to github
