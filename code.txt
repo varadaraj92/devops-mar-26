@@ -1,4 +1,6 @@
 Hi,
  welcome to devops practice
 
-i have moved file to github
+i have moved file to GitHub
+
+i done some changes
