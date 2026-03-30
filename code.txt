@@ -4,3 +4,5 @@ Hi,
 i have moved file to GitHub
 
 i done some changes
+
+i have working on git merge
