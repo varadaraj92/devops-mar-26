@@ -3,6 +3,9 @@ Hi,
 
 i have moved file to GitHub
 
-i done some changes
+i done some change 
 
-done day 30 practice 
+i have working on git merge
+
+merge issue has fixed 
+
