@@ -4,3 +4,5 @@ Hi,
 i have moved file to GitHub
 
 i done some changes
+
+done day 30 practice 
