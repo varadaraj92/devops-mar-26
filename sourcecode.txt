@@ -1,2 +1,3 @@
 hi,
- vardha wel come to devops practice in git 
+ vardha wel come to devops practice in git
+iam getting erroe i have fixed  
