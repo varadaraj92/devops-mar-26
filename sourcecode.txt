@@ -1,3 +1,6 @@
 hi,
  vardha wel come to devops practice in git
-iam getting erroe i have fixed  
+iam getting erroe i have fixed
+fixed
+
+  
