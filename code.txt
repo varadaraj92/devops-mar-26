@@ -1,9 +1,9 @@
-Hi,
- welcome to devops practice
+Hi
+devops practice
+ hiii changes
 
-i have moved file to GitHub
+ to check merging in branch 
 
-i done some changes
 
-i have working on git merge
- i got erroe from git 
+
+
