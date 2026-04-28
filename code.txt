@@ -1,11 +1,7 @@
-Hi,
- welcome to devops practice
+Hi
+devops practice
+ hiii changes
 
-i have moved file to GitHub
 
-i done some change 
 
-i have working on git merge
-
-merge issue has fixed 
 
