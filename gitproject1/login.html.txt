@@ -1,1 +1,2 @@
 Hi " it is my first project  push code to git "
+hi " it is my second merge commit code to git "
